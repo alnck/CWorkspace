@@ -12,7 +12,6 @@ char *mystrcat(char *desk, char *str)
     return desk;
 }
 
-
 int main(void)
 {
     char s[1000] = "ankara";
